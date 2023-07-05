@@ -3,7 +3,9 @@
 
 
 <p align="center">
- <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cljpxkbrc001108joxhd4swlw/stats?cursusId=21&coalitionId=77" alt="hbenfadd's 42 stats" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Hamza-benfaddoul&label=Profile%20views&color=0e75b6&style=flat" alt="Hamza-benfaddoul" />    </p>
+  <p align="center">
+   <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cljpxkbrc001108joxhd4swlw/stats?cursusId=21&coalitionId=77" alt="hbenfadd's 42 stats" /></a>
 </p>
 
 
