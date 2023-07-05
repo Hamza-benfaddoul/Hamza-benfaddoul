@@ -3,13 +3,14 @@
 
 
 <p align="center">
- <img src="https://komarev.com/ghpvc/?username=Hamza-benfaddoul&label=Profile%20views&color=0e75b6&style=flat" alt="Hamza-benfaddoul" /> </p>
+ <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cljpxkbrc001108joxhd4swlw/stats?cursusId=21&coalitionId=77" alt="hbenfadd's 42 stats" /></a>
+</p>
 
 
-<P align="center"><img align="center" src="https://badge42.vercel.app/api/v2/clgc1ekrg011108lbquxzgmj4/stats?cursusId=21&coalitionId=77" alt="hbenfadd's 42 stats" /></P>
+
   
 
-
+<!--
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hamza-benfaddoul&show_icons=true&locale=en&layout=compact" alt="Hamza-benfaddoul" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -21,3 +22,4 @@
 <a href="https://fb.com/walid oumechtak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="walid oumechtak" height="30" width="40" /></a>
 <a href="https://instagram.com/walidoumechtak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="walidoumechtak" height="30" width="40" /></a>
 </p>
+-->
